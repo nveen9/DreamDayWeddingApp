@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/drawable/ic_notify.xml" value="0.242" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_bdress_first.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_hotel_first.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_hotel_main.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_notification.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_photoghraphy_first.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_photography_main.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_seller_account.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/activity_signup_seller.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/image_item.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/item.xml" value="0.14959016393442623" />
+        <entry key="..\:/Users/Asus/OneDrive/Desktop/SProject/MyApplication/app/src/main/res/layout/notification_item.xml" value="0.14959016393442623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

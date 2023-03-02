@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logoapk"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name=".resetNewPassword"></activity>
+        <activity android:name=".passwordResetOtp" />
+        <activity android:name=".sellerbDressSignupNIC" />
+        <activity android:name=".sellerbDressProfileEdit" />
+        <activity android:name=".sellerbDressAccount" />
+        <activity android:name=".bDressMap" />
+        <activity android:name=".bDressMain" />
+        <activity android:name=".bDressFirst" />
+        <activity android:name=".sellerHotelSignupNIC" />
+        <activity android:name=".hotelMain" />
+        <activity android:name=".hotelFirst" />
+        <activity android:name=".sellerHotelProfileEdit" />
+        <activity android:name=".hotelMap" />
+        <activity android:name=".sellerHotelAccount" />
+        <activity android:name=".sellerProfileEdit" />
+        <activity android:name=".notification" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${MAPS_API_KEY}" />
+
+        <activity android:name=".map" />
+        <activity
+            android:name=".photoghraphyFirst"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".SellerSignupNIC" />
+        <activity android:name=".photographyMain" />
+        <activity android:name=".firstHome" />
+        <activity android:name=".sellerLogin" />
+        <activity android:name=".sellerAccount" />
+        <activity android:name=".resetPassword" />
+        <activity android:name=".home" />
+        <activity
+            android:name=".SignupSellerActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".Login" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

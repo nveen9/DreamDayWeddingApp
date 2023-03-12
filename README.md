@@ -4,4 +4,4 @@ An Android Application for Users to find Wedding Service Providers, allow Users 
 
 Developed using Android Studio, Java, Firebase
 
-<img width=30% height=30% src="https://user-images.githubusercontent.com/121798850/224555706-0c006600-9383-4db7-b5e1-2e5b95cf3885.png"/>
+<img src="https://user-images.githubusercontent.com/121798850/224555706-0c006600-9383-4db7-b5e1-2e5b95cf3885.png"/>

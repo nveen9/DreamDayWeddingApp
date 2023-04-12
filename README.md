@@ -6,4 +6,4 @@ Developed using Android Studio, Java, Firebase
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/121798850/231523176-01e68cc9-73f8-4652-ac01-3c1d17241cf4.png"/>
+<img src="https://user-images.githubusercontent.com/121798850/231524463-bb5ffeb5-416b-4b79-a597-632de8c10cc2.png"/>
